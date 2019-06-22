@@ -1,0 +1,34 @@
+{
+  "Version": 2,
+  "MaxWeightedTweetLength": 280,
+  "Scale": 100,
+  "DefaultWeight": 200,
+  "TransformedURLLength": 23,
+  "Ranges": [
+    {
+      "Start": 0,
+      "End": 4351,
+      "Weight": 100
+    },
+    {
+      "Start": 8192,
+      "End": 8205,
+      "Weight": 100
+    },
+    {
+      "Start": 8208,
+      "End": 8223,
+      "Weight": 100
+    },
+	{
+	  "Start": 8232,
+	  "End": 8233,
+	  "Weight": 100
+	},
+    {
+      "Start": 8242,
+      "End": 8247,
+      "Weight": 100
+    }
+  ]
+}
